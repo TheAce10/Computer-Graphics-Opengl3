@@ -1,0 +1,14 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glClearColor referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glfwInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glfwTerminate referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glfwWindowHint referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glfwCreateWindow referenced in function "void __cdecl `dynamic initializer for 'window''(void)" (??__Ewindow@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glfwWindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glfwSetWindowShouldClose referenced in function "void __cdecl processInputs(struct GLFWwindow *)" (?processInputs@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glfwPollEvents referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glfwGetKey referenced in function "void __cdecl processInputs(struct GLFWwindow *)" (?processInputs@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glfwMakeContextCurrent referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glfwSwapBuffers referenced in function main
+C:\Users\ACE\Documents\COE 4\SEM 1\POST\Computer Graphics\LABS\LAB1\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 12 unresolved externals

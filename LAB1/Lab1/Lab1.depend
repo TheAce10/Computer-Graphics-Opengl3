@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1706719336 source:c:\users\ace\documents\coe 4\sem 1\post\computer graphics\labs\lab1\lab1\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1706719336 c:\users\ace\downloads\compressed\glfw-3.3.9.bin.win64\glfw-3.3.9.bin.win64\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1706719336 c:\users\ace\downloads\compressed\glfw-3.3.9.bin.win64\glfw-3.3.9.bin.win64\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
