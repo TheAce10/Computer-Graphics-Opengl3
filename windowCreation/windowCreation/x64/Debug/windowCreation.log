@@ -1,0 +1,3 @@
+﻿  glad.c
+  windowCreation.cpp
+C:\Users\ACE\Documents\COE 4\SEM 1\COMPUTER GRAPHICS\LABS\windowCreation\windowCreation\windowCreation.cpp(141,45): error C2065: 'Shader': undeclared identifier
