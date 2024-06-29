@@ -1,0 +1,10 @@
+#version 330 core
+out vec4 fCol;
+in vec2 sTexCoord;
+in vec3 sCol;
+uniform sampler2D fTexSampler;
+
+void main()
+{
+   fCol = texture(fTexSampler, sTexCoord) * vec4(sCol, 0.0);
+};
