@@ -1,0 +1,5 @@
+﻿  Project0.cpp
+C:\Users\ACE\Documents\COE 4\SEM 1\COMPUTER GRAPHICS\LABS\Project0\Project0\Project0.cpp(280,27): warning C4101: 'texture1': unreferenced local variable
+C:\Users\ACE\Documents\COE 4\SEM 1\COMPUTER GRAPHICS\LABS\Project0\Project0\Project0.cpp(280,37): warning C4101: 'texture2': unreferenced local variable
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project0.vcxproj -> C:\Users\ACE\Documents\COE 4\SEM 1\COMPUTER GRAPHICS\LABS\Project0\x64\Debug\Project0.exe
